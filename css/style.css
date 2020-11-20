@@ -1,0 +1,3248 @@
+*{ box-sizing: border-box; }
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*-------Header Section--------*/
+
+
+
+.header-height{ height: 700px; }
+.header{ background-color: #1ABC9C; }
+.title{ 
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+ }
+.a-list{
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+.content-img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: #2C3E50;
+	position: relative;
+	top: 188px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+
+}
+.content-img img{
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+	position: relative;
+	top: 16px;
+	bottom: 0px;
+	left: 15px;
+	right: 0px;
+	display: block;
+
+}
+
+.header-area-heading h2{
+	position: relative;
+	top: 195px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+	
+}
+
+.div-custom-icon{
+	position: relative;
+	top: 200px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+
+.div-custom-line-one{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: 224px;
+	right: 0px;
+	bottom: 0px;
+	left: -115px;
+	margin: 0px auto;
+}
+
+.div-custom-line-two{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: 185px;
+	right: 0px;
+	bottom: 0px;
+	left: 114px;
+	margin: 0px auto;
+}
+
+
+.content-footer-title{
+	position: relative;
+	top: 216px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+}
+.content-footer-title p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/*-------portfolio section-------*/
+
+.portfolio{
+	padding: 100px 0px 50px 0px;
+	height: 950px;
+}
+
+.portfolio h2{
+	position: relative;
+	top: 20px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #2C3E50;
+}
+
+.portfolio-custom-icon{
+	position: relative;
+	top: 28px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+.portfolio-custom-line-one{
+	width: 100px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: 52px;
+	right: 0px;
+	bottom: 0px;
+	left: -64px;
+	margin: 0px auto;
+}
+
+.portfolio-custom-line-two{
+	width: 100px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: 13px;
+	right: 0px;
+	bottom: 0px;
+	left: 63px;
+	margin: 0px auto;
+}
+
+
+
+
+.card-one{
+	position: absolute;
+	width: 100%;
+	background-color: #2AB196;
+	height: 251px;
+	opacity: 0;
+	transition: 1s;
+}
+
+.card-one:hover{
+	opacity: 1;
+}
+
+.card-one-plus{
+	
+	position: relative;
+	top: 100px;
+}
+
+/*---------About Section---------*/
+
+.about{
+
+	background-color: #1ABC9C;
+	padding: 100px 0px 60px 0px;
+}
+
+.about-height{ height: 600px; }
+
+.about h2{
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.about-custom-icon{
+	position: relative;
+	top: -4px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+.about-custom-line-one{
+	width: 100px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: 21px;
+	right: 0px;
+	bottom: 0px;
+	left: -64px;
+	margin: 0px auto;
+}
+
+.about-custom-line-two{
+	width: 100px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: -18px;
+	right: 0px;
+	bottom: 0px;
+	left: 63px;
+	margin: 0px auto;
+}
+
+.pera-one{
+	font-size: 20px;
+	font-weight: bold;
+}
+.pera-two{
+	font-size: 20px;
+	font-weight: bold;
+}
+.row-setting{ 
+	margin-top: 10px;
+ }
+.custom-btn{ margin-top: 20px !important; }
+.btn-text{
+	padding: 20px;
+	font-size: 25px;
+}
+
+/*---------Education Section---------*/
+
+.education{
+	height: 600px;
+	padding: 100px 0px 60px 0px;
+	background-color: #fff;
+}
+
+.education h2{
+	font-size: 50px;
+	font-weight: bold;
+	color: #2C3E50;
+}
+
+.education-custom-icon{
+	position: relative;
+	top: -4px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+.education-custom-line-one{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: 21px;
+	right: 0px;
+	bottom: 0px;
+	left: -115px;
+	margin: 0px auto;
+}
+
+.education-custom-line-two{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: -18px;
+	right: 0px;
+	bottom: 0px;
+	left: 114px;
+	margin: 0px auto;
+}
+
+.nav-tab-margin{
+	margin-top: 36px;
+}
+
+.education a{
+	font-size: 20px;
+	color: #1ABC9C;
+}
+
+.custom-card{
+	border-color: #1ABC9C !important;
+}
+/*---------Publication Section---------*/
+
+.publication{
+	background-color: #1ABC9C;
+	padding: 100px 0px 60px 0px;
+	height: 500px;
+}
+
+.publication h2{
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.publication-custom-icon{
+	position: relative;
+	top: -4px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+.publication-custom-line-one{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: 21px;
+	right: 0px;
+	bottom: 0px;
+	left: -115px;
+	margin: 0px auto;
+}
+
+.publication-custom-line-two{
+	width: 200px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #fff;
+	position: relative;
+	top: -18px;
+	right: 0px;
+	bottom: 0px;
+	left: 114px;
+	margin: 0px auto;
+}
+
+
+.publication-row{
+	margin-top: 30px;
+}
+/*---------Contact Section---------*/
+
+.contact{
+	height: 940px;
+	padding: 100px 0px 60px 0px;
+	background-color: #fff;
+}
+
+.contact h2{
+	font-size: 50px;
+	font-weight: bold;
+	color: #2C3E50;;
+}
+
+.contact-custom-icon{
+	position: relative;
+	top: -4px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px auto;
+
+}
+
+.contact-custom-line-one{
+	width: 130px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: 21px;
+	right: 0px;
+	bottom: 0px;
+	left: -81px;
+	margin: 0px auto;
+}
+
+.contact-custom-line-two{
+	width: 130px;
+	height: 5px;
+	border-radius: 15px;
+	background-color: #2C3E50;
+	position: relative;
+	top: -18px;
+	right: 0px;
+	bottom: 0px;
+	left: 80px;
+	margin: 0px auto;
+}
+
+
+.form-height{
+	font-size: 20px;
+	font-weight: bold;
+	height: 80px;
+	border: none;
+	border-bottom: 1px solid #E9ECEF;
+}
+.text-height{
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	border-bottom: 1px solid #E9ECEF;
+}
+.btn-submit{
+	height: 70px;
+	width: 120px;
+	border-radius: 10px;
+	background-color: #159A80;
+	cursor: pointer;
+	position: relative;
+	left: -209px;
+	color: #fff;
+	font-size: 28px;
+	padding: 5px 0px !important;
+}
+
+/*---------Big Footer Section---------*/
+
+.big-footer{
+	background-color: #2C3E50;
+	height: 400px;
+	padding: 100px 0px 60px 0px;
+}
+
+.big-footer h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+.big-footer p{
+	font-size: 20px;
+	/*line-height: 15px;*/
+}
+
+.big-footer-custom-4 {
+    margin-top: 13px !important;
+}
+
+/*.social-icon{
+	float: left;
+	border-radius: 50%;
+	border: 2px solid #fff;
+	width: 50px;
+	height: 50px;
+	margin-left: 10px;
+	position: relative;
+	left: 50px;
+}*/
+
+/*.fa-icon{
+	display: block;
+	position: absolute;
+	top: 7px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: 0px auto;
+}*/
+
+.custom-icon{ font-size: 17px; }
+
+.learn-with-anik{
+	color: #159A80;
+	font-size: 20px;
+	line-height: 0px;
+}
+
+.last-div {
+    position: relative;
+    top: 12px;
+}
+
+/*---------Footer Section---------*/
+
+.footer{
+	height: 50px;
+	line-height: 50px;
+	padding-top: 15px;
+	background-color: #1A252F;
+}
+.footer h4{
+	font-size: 15px;
+}
+/*---------Image Responsive Section---------*/
+
+.responsive{
+	width: 100%;
+	height: 300px;
+}
+
+/*---------Media Queary Section---------*/
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+
+	.portfolio-custom-line-one{
+		position: relative;
+		top: 52px;
+		left: -64px;
+	}
+
+	.portfolio-custom-line-two{
+		position: relative;
+		top: 13px;
+		left: 63px;
+	}
+
+	.card-one { height: 208px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 80px;
+	}
+
+    .about-height{ height: 580px; }
+	
+	.about-custom-line-one{
+		position: relative;
+		top: 21px;
+		left: -64px;
+	}
+
+	.about-custom-line-two{
+		position: relative;
+		top: -18px;
+		left: 63px;
+	}
+
+	.education-custom-line-one{
+
+		position: relative;
+		top: 21px;
+		left: -115px;
+	}
+
+	.education-custom-line-two{
+
+		position: relative;
+		top: -18px;
+		left: 114px;
+	}
+
+	.publication-custom-line-one{
+		width: 200px;
+		position: relative;
+		top: 21px;
+		left: -115px;
+	}
+
+	.publication-custom-line-two{
+		width: 200px;
+		position: relative;
+		top: -18px;
+		left: 114px;
+	}
+
+	.contact-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 20px;
+		left: -81px;
+	}
+
+	.contact-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.btn-submit {
+	    
+		position: relative;
+		left: -164px;
+		
+	}
+
+	.big-footer p {
+	    font-size: 20px;
+	}
+
+	.big-footer-custom-4 {
+	    margin-top: 3px !important;
+	}
+	.last-div {
+	    position: relative;
+	    top: 1px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+	.title{ font-size: 19px; }
+
+	.a-list{ font-size: 15px; }
+
+	.header-area-heading h2{ font-size: 40px; }
+
+	.div-custom-line-one{
+		width: 160px;
+		position: relative;
+		top: 224px;
+		left: -97px;
+	}
+
+	.div-custom-line-two{
+		width: 160px;
+		position: relative;
+		top: 185px;
+		left: 96px;
+	}
+
+	.content-footer-title p{ font-size: 17px; }
+
+	.portfolio h2{ font-size: 40px; }
+
+	.portfolio-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 52px;
+		left: -58px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: 13px;
+		left: 57px;
+	}
+
+	.card-one { height: 151px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 50px;
+	}
+
+	.portfolio{ height: 700px; }
+
+	.about-height{ height: 580px; }
+	.about h2{ font-size: 40px; }
+	.pera-one{ font-size: 17px; }
+	.pera-two{ font-size: 17px; }
+	.about-custom-line-one{
+		width: 75px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.about-custom-line-two{
+		width: 75px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+
+
+	.education h2{ font-size: 40px; }
+
+	.education-custom-line-one{
+		width: 160px;
+		position: relative;
+		top: 21px;
+		left: -101px;
+	}
+
+	.education-custom-line-two{
+		width: 160px;
+		position: relative;
+		top: -18px;
+		left: 100px;
+	}
+
+	.publication h2{ font-size: 40px; }
+
+	.publication-custom-line-one{
+		width: 200px;
+		position: relative;
+		top: 21px;
+		left: -115px;
+	}
+
+	.publication-custom-line-two{
+		width: 200px;
+		position: relative;
+		top: -18px;
+		left: 114px;
+	}
+
+
+	.research-heading{ font-size: 22px; }
+	.research-text{ font-size: 15px; }
+
+	.contact{ height: 840px; }
+
+	.contact h2{ font-size: 40px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+	
+
+	.form-height{
+		font-size: 15px;
+		font-weight: bold;
+		height: 80px;
+		border: none;
+		border-bottom: 1px solid #E9ECEF;
+	}
+	.text-height{
+		font-size: 15px;
+		font-weight: bold;
+		border: none;
+		border-bottom: 1px solid #E9ECEF;
+	}
+
+	.btn-submit {
+	    
+	    height: 63px;
+		width: 114px;
+		position: relative;
+		left: -107px;
+		
+	}
+
+	.big-footer h2{ font-size: 23px; }
+
+	.big-footer p {
+	    font-size: 17px;
+	}
+
+	.big-footer-custom-4 {
+	    margin-top: 3px !important;
+	}
+
+	.custom-icon{ font-size: 12px; }
+
+
+	.last-div {
+	    position: relative;
+	    top: -9px;
+	}
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px){
+
+	.header-area-heading h2{ font-size: 35px; }
+
+	.div-custom-line-one{
+		width: 160px;
+		position: relative;
+		top: 224px;
+		left: -97px;
+	}
+
+	.div-custom-line-two{
+		width: 160px;
+		position: relative;
+		top: 185px;
+		left: 96px;
+	}
+
+	.content-footer-title p { font-size: 17px; }
+
+	.portfolio{ height: 595px; }
+
+	.portfolio h2{ font-size: 35px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 107px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 30px;
+	}
+
+	.about-height{ height:  520px;}
+	.about h2{ font-size: 35px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 35px; }
+
+	.education-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.education-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.education-header{ 
+		font-size: 19px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 15px; }
+
+	.publication h2{ font-size: 35px; }
+	.publication-custom-line-one{
+		width: 160px;
+		position: relative;
+		top: 21px;
+		left: -101px;
+	}
+
+	.publication-custom-line-two{
+		width: 160px;
+		position: relative;
+		top: -18px;
+		left: 100px;
+	}
+
+	.research-heading{ font-size: 22px; }
+	.research-text{ font-size: 13px; }
+
+	.contact{ height: 736px; }
+
+	.contact h2{ font-size: 35px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{
+		font-size: 15px;
+		height: 50px;
+	}
+	.text-height{
+		font-size: 15px;
+	}
+
+	.btn-submit {
+	    
+	    height: 58px;
+		width: 96px;
+		position: relative;
+		left: -75px;
+		font-size: 20px;
+	}
+
+	.big-footer h2{ font-size: 20px; }
+
+	.big-footer p {
+	    font-size: 15px;
+	}
+
+	.big-footer-custom-4 {
+	    margin-top: 1px !important;
+	}
+
+	 .custom-icon{ font-size: 12px; }
+
+	 .margin-top{ margin-top: 5px; }
+
+
+	.last-div {
+	    position: relative;
+	    top: 3px;
+	}
+}
+
+
+
+@media screen and (min-width: 564px) and (max-width: 575px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2525px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 323px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 134px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+}
+
+@media screen and (min-width: 545px) and (max-width: 563px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2525px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 316px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 130px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 538px) and (max-width: 544px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2525px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 305px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 130px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 532px) and (max-width: 537px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2525px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 300px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 130px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+
+
+}
+
+
+
+@media screen and (min-width: 520px) and (max-width: 531px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2350px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 296px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 130px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 488px) and (max-width: 519px){
+	.header-area-heading h2{ font-size: 30px; }
+
+	.div-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 224px;
+		left: -81px;
+	}
+
+	.div-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: 185px;
+		left: 80px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2350px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 30px; }
+
+	.portfolio-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 52px;
+		left: -54px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: 13px;
+		left: 53px;
+	}
+
+	.card-one{ height: 289px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 119px;
+	}
+
+	.about-height{ height:  580px;}
+	.about h2{ font-size: 30px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+	.about-custom-line-one{
+		width: 65px;
+		position: relative;
+		top: 21px;
+		left: -47px;
+	}
+
+	.about-custom-line-two{
+		width: 65px;
+		position: relative;
+		top: -18px;
+		left: 46px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 22px;
+	}
+
+	.education h2{ font-size: 30px; }
+
+	.education-custom-line-one{
+		width: 110px;
+		position: relative;
+		top: 21px;
+		left: -71px;
+	}
+
+	.education-custom-line-two{
+		width: 110px;
+		position: relative;
+		top: -18px;
+		left: 70px;
+	}
+	.education-header{ 
+		font-size: 16px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 14px; }
+
+	.publication h2{ font-size: 30px; }
+	.publication-custom-line-one{
+		width: 130px;
+		position: relative;
+		top: 21px;
+		left: -81px;
+	}
+
+	.publication-custom-line-two{
+		width: 130px;
+		position: relative;
+		top: -18px;
+		left: 80px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 30px; }
+
+	.contact-custom-line-one{
+		width: 70px;
+		position: relative;
+		top: 20px;
+		left: -51px;
+	}
+
+	.contact-custom-line-two{
+		width: 70px;
+		position: relative;
+		top: -18px;
+		left: 50px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 460px) and (max-width: 487px){
+
+	.title{ font-size: 18px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2190px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 270px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 110px;
+	}
+
+	.about-height{ height:  650px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 450px) and (max-width: 459px){
+	.title{ font-size: 18px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2190px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 253px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 104px;
+	}
+
+	.about-height{ height:  650px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 425px) and (max-width: 449px){
+	.title{ font-size: 18px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2080px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 247px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 104px;
+	}
+
+	.about-height{ height:  650px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 400px) and (max-width: 424px){
+	.title{ font-size: 18px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 2000px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 232px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 88px;
+	}
+
+	.about-height{ height:  670px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 380px) and (max-width: 399px){
+	.title{ font-size: 18px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 1900px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 217px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 86px;
+	}
+
+	.about-height{ height:  700px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (min-width: 350px) and (max-width: 379px){
+
+	.title{ font-size: 17px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 13px;
+	}
+
+	.portfolio{ height: 1800px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 205px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 82px;
+	}
+
+	.about-height{ height:  730px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.edu-custom{ font-size: 18px !important; }
+
+	.publication{ height: 572px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+@media screen and (min-width: 335px) and (max-width: 349px){
+
+	.title{ font-size: 17px; }
+	.header-area-heading h2{ font-size: 25px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 17px;
+	}
+
+	.portfolio{ height: 1700px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 25px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 187px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 73px;
+	}
+
+	.about-height{ height:  720px;}
+	.about h2{ font-size: 25px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 25px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.edu-custom{ font-size: 16px !important; }
+
+	.publication{ height: 592px; }
+	.publication h2{ font-size: 25px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 25px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 70px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 25px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+@media screen and (min-width: 320px) and (max-width: 334px){
+
+	.title{ font-size: 17px; }
+	.header-area-heading h2{ font-size: 22px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 17px;
+	}
+
+	.portfolio{ height: 1650px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 22px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 178px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 66px;
+	}
+
+	.about-height{ height:  730px;}
+	.about h2{ font-size: 22px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 22px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.edu-custom{ font-size: 16px !important; }
+
+	.publication{ height: 592px; }
+	.publication h2{ font-size: 22px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 22px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 60px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 22px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
+
+@media screen and (max-width: 319px){
+	.title{ font-size: 15px; }
+	.header-area-heading h2{ font-size: 22px; }
+
+	.div-custom-line-one{
+		width: 100px;
+		position: relative;
+		top: 224px;
+		left: -66px;
+	}
+
+	.div-custom-line-two{
+		width: 100px;
+		position: relative;
+		top: 185px;
+		left: 65px;
+	}
+
+	.content-footer-title p{
+		font-size: 17px;
+	}
+
+	.portfolio{ height: 1650px; padding: 120px 0px 0px 0px; }
+
+	.portfolio h2{ font-size: 22px; }
+
+	.portfolio-custom-line-one{
+		width: 55px;
+		position: relative;
+		top: 52px;
+		left: -44px;
+	}
+
+	.portfolio-custom-line-two{
+		width: 55px;
+		position: relative;
+		top: 13px;
+		left: 43px;
+	}
+
+	.card-one{ height: 169px; }
+
+	.card-one-plus{
+	
+		position: relative;
+		top: 62px;
+	}
+
+	.about-height{ height:  770px;}
+	.about h2{ font-size: 22px; }
+	.pera-one{ font-size: 15px; }
+	.pera-two{ font-size: 15px; }
+
+	.about-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 21px;
+		left: -59px;
+	}
+
+	.about-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 58px;
+	}
+
+	.custom-btn{ margin-top: 15px !important; }
+	.btn-text{
+		padding: 13px;
+		font-size: 18px;
+	}
+
+	.education h2{ font-size: 22px; }
+
+	.education-custom-line-one{
+		width: 80px;
+		position: relative;
+		top: 21px;
+		left: -55px;
+	}
+
+	.education-custom-line-two{
+		width: 80px;
+		position: relative;
+		top: -18px;
+		left: 54px;
+	}
+	.education-header{ 
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.education-text{ font-size: 12px; }
+
+	.edu-custom{ font-size: 14px !important; }
+
+	.publication{ height: 610px; }
+	.publication h2{ font-size: 22px; }
+	.publication-custom-line-one{
+		width: 118px;
+		position: relative;
+		top: 21px;
+		left: -75px;
+	}
+
+	.publication-custom-line-two{
+		width: 118px;
+		position: relative;
+		top: -18px;
+		left: 74px;
+	}
+
+	.contact{ height: 800px; }
+
+	.contact h2{ font-size: 22px; }
+
+	.contact-custom-line-one{
+		width: 90px;
+		position: relative;
+		top: 20px;
+		left: -58px;
+	}
+
+	.contact-custom-line-two{
+		width: 90px;
+		position: relative;
+		top: -18px;
+		left: 57px;
+	}
+
+	.form-height{ height: 60px; }
+
+	.btn-submit {
+		position: relative;
+		left: 0px;
+		width: 100%;
+	}
+
+	.big-footer{
+		background-color: #2C3E50;
+		height: 800px;
+		padding: 100px 0px 60px 0px;
+	}
+
+	.big-footer h2{ font-size: 22px; }
+
+	.custom-icon{ 
+
+		font-size: 12px;
+		margin-bottom: 20px;
+
+	 }
+
+}
